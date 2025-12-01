@@ -1,7 +1,7 @@
 
 # Python 2x vs Python 3x
 
-## 1. Print Statement vs Print Function
+### 1. Print Statement vs Print Function
 ---
 ### Python 2.x
 print "Welcome to Python"
@@ -63,10 +63,11 @@ except ValueError as e:
 
 ### 7. Dictionary Methods
 ---
-Method	Python 2.x	Python 3.x
-keys()	list	view
-values()	list	view
-items()	list	view
+| Method      | Python 2.x | Python 3.x |
+|-------------|------------|------------|
+| keys()      | list       | view       |
+| values()    | list       | view       |
+| items()     | list       | view       |
 
 ### 8. Standard Library Changes
 ---
