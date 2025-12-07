@@ -137,4 +137,4 @@ cityInput.addEventListener('keypress', function (e) {
 });
 
 // Fetch default weather on page load
-document.addEventListener('DOMContentLoaded', handleWeatherRequest);// Sample
+document.addEventListener('DOMContentLoaded', handleWeatherRequest);
